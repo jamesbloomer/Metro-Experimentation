@@ -20,8 +20,8 @@
         <img class="item-image" src="#" data-win-bind="src: backgroundImage; alt: title" />
         <div class="item-info">
             <h3 class="item-title win-type-ellipsis" data-win-bind="textContent: title"></h3>
-            <h6 class="item-subtitle win-type-ellipsis" data-win-bind="textContent: subtitle"></h6>
-            <h4 class="item-description" data-win-bind="textContent: description"></h4>
+            <h6 class="item-subtitle win-type-ellipsis" data-win-bind="textContent: author"></h6>
+            <h4 class="item-description" data-win-bind="textContent: pubDate"></h4>
         </div>
     </div>
 
@@ -37,13 +37,6 @@
             <div class="itemlist" aria-label="List of this group's items" data-win-control="WinJS.UI.ListView" data-win-options="{ selectionMode: 'single', tapBehavior: 'directSelect' }"></div>
         </section>
         <section class="articlesection" aria-atomic="true" aria-label="Item detail" aria-live="assertive">
-            <header class="header">
-                <div class="text">
-                    <h2 class="article-title win-type-ellipsis" data-win-bind="textContent: title"></h2>
-                    <h4 class="article-subtitle" data-win-bind="textContent: subtitle"></h4>
-                </div>
-                <img class="article-image" src="#" data-win-bind="src: backgroundImage; alt: title" />
-            </header>
             <article class="article-content" data-win-bind="innerHTML: content"></article>
         </section>
     </div>

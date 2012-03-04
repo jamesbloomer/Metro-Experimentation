@@ -78,7 +78,7 @@
     .splitpage .articlesection {
         -ms-grid-column: 2;
         -ms-grid-row-span: 2;
-        -ms-grid-row: 1;
+        -ms-grid-row: 2;
         margin-left: 70px;
         overflow-y: auto;
         padding-right: 120px;
