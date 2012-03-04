@@ -19,7 +19,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\css\default.css">
       <PackagePath>css\default.css</PackagePath>
-      <Modified>2012-03-04T17:41:35.393</Modified>
+      <Modified>2012-03-04T17:56:38.128</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\css\splitPage.css">
       <PackagePath>css\splitPage.css</PackagePath>
@@ -31,7 +31,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\html\itemsPage.html">
       <PackagePath>html\itemsPage.html</PackagePath>
-      <Modified>2012-03-04T17:41:35.627</Modified>
+      <Modified>2012-03-04T17:54:36.286</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\html\splitPage.html">
       <PackagePath>html\splitPage.html</PackagePath>
