@@ -1,0 +1,13 @@
+C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\bin\Debug\resources.pri
+C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\bin\Debug\AppxManifest.xml
+C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\bin\Debug\WindowsBlogReader.build.appxrecipe
+C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\bld\Debug\priconfig.xml.intermediate
+C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\bld\Debug\layout.resfiles.intermediate
+C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\bld\Debug\resources.resfiles.intermediate
+C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\bld\Debug\pri.resfiles.intermediate
+C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\bld\Debug\priconfig.xml
+C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\bld\Debug\layout.resfiles
+C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\bld\Debug\resources.resfiles
+C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\bld\Debug\pri.resfiles
+C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\bld\Debug\LanguageQualifiers.txt
+C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\bld\Debug\ProjectArchitectures.txt

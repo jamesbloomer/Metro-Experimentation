@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JB-CP</Machine>
+    <WindowsUser>James</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>3E98E1D55BC584C54F2E9D4C16B0D1BC26DBD426BF989A08750AA6304C665237</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>f8b5c105-dfb0-4eaa-a347-ce5330e483ee_1.0.0.0_neutral__gd9wj2p7c52jg</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>f8b5c105-dfb0-4eaa-a347-ce5330e483ee_gd9wj2p7c52jg!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>f8b5c105-dfb0-4eaa-a347-ce5330e483ee</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=James</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <Modified>2012-03-04T17:47:31.892</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\css\itemsPage.css">
+      <PackagePath>css\itemsPage.css</PackagePath>
+      <Modified>2012-03-04T17:41:35.389</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2012-03-04T17:41:35.393</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\css\splitPage.css">
+      <PackagePath>css\splitPage.css</PackagePath>
+      <Modified>2012-03-04T17:41:35.398</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2012-03-04T17:41:35.379</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\html\itemsPage.html">
+      <PackagePath>html\itemsPage.html</PackagePath>
+      <Modified>2012-03-04T17:41:35.627</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\html\splitPage.html">
+      <PackagePath>html\splitPage.html</PackagePath>
+      <Modified>2012-03-04T17:41:35.631</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\images\home.png">
+      <PackagePath>images\home.png</PackagePath>
+      <Modified>2012-02-14T04:25:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <Modified>2012-02-14T04:25:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\images\placeholder.png">
+      <PackagePath>images\placeholder.png</PackagePath>
+      <Modified>2012-02-14T04:25:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <Modified>2012-02-14T04:25:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <Modified>2012-02-14T04:25:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <Modified>2012-02-14T04:25:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\js\itemsPage.js">
+      <PackagePath>js\itemsPage.js</PackagePath>
+      <Modified>2012-03-04T17:41:35.655</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2012-03-04T17:41:35.375</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+      <Modified>2012-03-04T17:41:35.660</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\js\data.js">
+      <PackagePath>js\data.js</PackagePath>
+      <Modified>2012-02-14T04:25:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\js\splitPage.js">
+      <PackagePath>js\splitPage.js</PackagePath>
+      <Modified>2012-03-04T17:41:35.701</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-03-04T17:47:30.723</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS\0.6\">
+      <Name>Microsoft.WinJS.0.6.Debug</Name>
+      <Version>0.6.8229.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.0.6.Debug, MinVersion=0.6.8229.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS\0.6\Microsoft.WinJS.0.6.Debug.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
