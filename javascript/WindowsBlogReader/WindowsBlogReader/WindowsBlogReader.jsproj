@@ -51,10 +51,12 @@
     <AppxManifest Include="package.appxmanifest">
       <SubType>Designer</SubType>
     </AppxManifest>
+    <Content Include="css\detailPage.css" />
     <Content Include="css\itemsPage.css" />
     <Content Include="css\default.css" />
     <Content Include="css\splitPage.css" />
     <Content Include="default.html" />
+    <Content Include="html\detailPage.html" />
     <Content Include="html\itemsPage.html" />
     <Content Include="html\splitPage.html" />
     <Content Include="images\home.png" />
@@ -63,6 +65,7 @@
     <Content Include="images\smalllogo.png" />
     <Content Include="images\splashscreen.png" />
     <Content Include="images\storelogo.png" />
+    <Content Include="js\detailPage.js" />
     <Content Include="js\itemsPage.js" />
     <Content Include="js\default.js" />
     <Content Include="js\navigator.js" />

@@ -15,10 +15,14 @@
   <ItemGroup>
     <AppXManifest Include="C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
-      <Modified>2012-03-04T17:47:31.892</Modified>
+      <Modified>2012-03-04T19:35:53.962</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\css\detailPage.css">
+      <PackagePath>css\detailPage.css</PackagePath>
+      <Modified>2012-03-04T19:21:27.480</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\css\itemsPage.css">
       <PackagePath>css\itemsPage.css</PackagePath>
       <Modified>2012-03-04T17:41:35.389</Modified>
@@ -33,7 +37,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\default.html">
       <PackagePath>default.html</PackagePath>
-      <Modified>2012-03-04T17:41:35.379</Modified>
+      <Modified>2012-03-04T19:23:41.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\html\detailPage.html">
+      <PackagePath>html\detailPage.html</PackagePath>
+      <Modified>2012-03-04T19:16:37.384</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\html\itemsPage.html">
       <PackagePath>html\itemsPage.html</PackagePath>
@@ -67,9 +75,13 @@
       <PackagePath>images\storelogo.png</PackagePath>
       <Modified>2012-02-14T04:25:28.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\js\detailPage.js">
+      <PackagePath>js\detailPage.js</PackagePath>
+      <Modified>2012-03-04T19:20:15.868</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\js\itemsPage.js">
       <PackagePath>js\itemsPage.js</PackagePath>
-      <Modified>2012-03-04T17:41:35.655</Modified>
+      <Modified>2012-03-04T19:25:26.181</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\js\default.js">
       <PackagePath>js\default.js</PackagePath>
@@ -85,11 +97,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\js\splitPage.js">
       <PackagePath>js\splitPage.js</PackagePath>
-      <Modified>2012-03-04T17:41:35.701</Modified>
+      <Modified>2012-03-04T19:35:32.255</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2012-03-04T17:47:30.723</Modified>
+      <Modified>2012-03-04T19:35:53.158</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

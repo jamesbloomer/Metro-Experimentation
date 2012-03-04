@@ -6,6 +6,11 @@
     var nav = WinJS.Navigation;
     var ui = WinJS.UI;
     var utils = WinJS.Utilities;
+    var post;
+
+    function displayFullView() {
+        nav.navigate('/html/detailPage.html', { item: post });
+    }
 
     ui.Pages.define("/html/splitPage.html", {
 
@@ -25,6 +30,8 @@
             this.items = data.getItemsFromGroup(this.group);
             this.itemSelectionIndex = (options && "selectedIndex" in options) ? options.selectedIndex : -1;
             element.querySelector("header[role=banner] .pagetitle").textContent = this.group.title;
+
+            post = this.items.getAt(0);
 
             // Set up the ListView.
             var listView = element.querySelector(".itemlist").winControl;
@@ -52,6 +59,14 @@
                 // appear in the ListView.
                 listView.selection.set(Math.max(this.itemSelectionIndex, 0));
             }
+
+            // Display the appbar and show the Full View button
+            var appbar = document.getElementById('appbar');
+            var appbarCtrl = appbar.winControl;
+            appbarCtrl.showCommands(["view"], false);
+
+            // Register the event handler for the Full View button
+            document.getElementById('view').addEventListener("click", displayFullView, false);
         },
 
         selectionChanged: function (eventObject) {
@@ -61,6 +76,8 @@
             listView.selection.getItems().then(function (items) {
                 if (items.length > 0) {
                     that.itemSelectionIndex = items[0].index;
+                    post = that.items.getAt(that.itemSelectionIndex);
+
                     if (that.isSingleColumn()) {
                         // If snapped or portrait, navigate to a new page containing the
                         // selected item's details.

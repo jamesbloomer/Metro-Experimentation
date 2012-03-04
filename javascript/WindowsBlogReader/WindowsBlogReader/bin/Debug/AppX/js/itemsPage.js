@@ -20,6 +20,11 @@
                 oniteminvoked: this.itemInvoked.bind(this),
             });
             this.updateLayout(element, Windows.UI.ViewManagement.ApplicationView.value);
+
+            // Display the appbar but hide the Full View button
+            var appbar = document.getElementById('appbar');
+            var appbarCtrl = appbar.winControl;
+            appbarCtrl.hideCommands(["view"], false);
         },
 
         // This function updates the page layout in response to viewState changes.

@@ -7,3 +7,7 @@ C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBl
 C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\bld\Debug\pri.resfiles
 C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\bld\Debug\LanguageQualifiers.txt
 C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\bld\Debug\ProjectArchitectures.txt
+C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\bld\Debug\priconfig.xml.intermediate
+C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\bld\Debug\layout.resfiles.intermediate
+C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\bld\Debug\resources.resfiles.intermediate
+C:\Users\James\code\Metro-Experimentation\javascript\WindowsBlogReader\WindowsBlogReader\bld\Debug\pri.resfiles.intermediate
